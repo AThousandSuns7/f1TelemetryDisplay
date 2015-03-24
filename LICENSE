@@ -1,14 +1,10 @@
     Car telemetry display through Raspberry Pi
     Copyright (C) 2015 Chris Gutwin
 
-<<<<<<< HEAD
-Copyright (c) 2015 Chris Gutwin
-=======
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation; either version 2 of the License, or
     (at your option) any later version.
->>>>>>> e621eda71d735a97fa15b8ce82f5093d9ed91618
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
