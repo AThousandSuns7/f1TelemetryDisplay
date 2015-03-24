@@ -1,4 +1,4 @@
-You need the F1 Telemetry Application by * found here: http://www.racedepartment.com/downloads/telemetry-application.922/. Download and set that up accordingly.
+You need the F1 Telemetry Application by Iko Rein (http://www.racedepartment.com/downloads/authors/iko-rein.104187/) found here: http://www.racedepartment.com/downloads/telemetry-application.922/. Download and set that up accordingly.
 
 This script parses the JSON information served from the Telemetry app and scrapes for the rev count, lap time, and position. It then will control LED's and six-segment displays based on this information.
 Green LEDs for lean revs, red for standard, and blue for full. These LEDs will be on a Raspberry Pi IO breadboard.
